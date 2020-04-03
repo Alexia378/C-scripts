@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Dam_Lev_Dist.dir/main.cpp.o  -o Dam_Lev_Dist.exe -Wl,--out-implib,libDam_Lev_Dist.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

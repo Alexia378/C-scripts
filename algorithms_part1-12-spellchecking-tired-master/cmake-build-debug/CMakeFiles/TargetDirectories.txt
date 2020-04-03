@@ -1,0 +1,5 @@
+/cygdrive/c/Users/Alexandra(Student)/Desktop/algorithms_part1-12-spellchecking-tired-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Alexandra(Student)/Desktop/algorithms_part1-12-spellchecking-tired-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Alexandra(Student)/Desktop/algorithms_part1-12-spellchecking-tired-master/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Alexandra(Student)/Desktop/algorithms_part1-12-spellchecking-tired-master/cmake-build-debug/src/CMakeFiles/main.dir
+/cygdrive/c/Users/Alexandra(Student)/Desktop/algorithms_part1-12-spellchecking-tired-master/cmake-build-debug/src/CMakeFiles/edit_cache.dir

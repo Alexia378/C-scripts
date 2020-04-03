@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Alexandra(Student)/Desktop/C++/Semester_2/Heap_Sort/ReadWriter.h
+iostream
+-
+fstream
+-
+
+/cygdrive/c/Users/Alexandra(Student)/Desktop/C++/Semester_2/Heap_Sort/main.cpp
+ReadWriter.h
+/cygdrive/c/Users/Alexandra(Student)/Desktop/C++/Semester_2/Heap_Sort/ReadWriter.h
+

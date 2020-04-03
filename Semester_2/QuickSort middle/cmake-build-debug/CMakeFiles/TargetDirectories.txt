@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/QuickSort middle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/QuickSort middle/cmake-build-debug/CMakeFiles/QuickSort_middle.dir
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/QuickSort middle/cmake-build-debug/CMakeFiles/edit_cache.dir

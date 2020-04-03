@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Shannon_Fano_Code_Demo.dir/main.cpp.o  -o Shannon_Fano_Code_Demo.exe -Wl,--out-implib,libShannon_Fano_Code_Demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

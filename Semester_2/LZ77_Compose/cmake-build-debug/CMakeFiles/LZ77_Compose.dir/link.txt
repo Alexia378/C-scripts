@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LZ77_Compose.dir/main.cpp.o  -o LZ77_Compose.exe -Wl,--out-implib,libLZ77_Compose.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

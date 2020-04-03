@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Max_Gran_Stroki.dir/main.cpp.o  -o Max_Gran_Stroki.exe -Wl,--out-implib,libMax_Gran_Stroki.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

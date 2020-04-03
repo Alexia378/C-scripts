@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/trip.dir/main.cpp.o  -o trip.exe -Wl,--out-implib,libtrip.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

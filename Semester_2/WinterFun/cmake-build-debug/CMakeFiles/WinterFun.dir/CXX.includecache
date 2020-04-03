@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/WinterFun/ReadWriter.h
+iostream
+-
+fstream
+-
+Student_and_Ski.h
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/WinterFun/Student_and_Ski.h
+
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/WinterFun/Student_and_Ski.h
+
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/WinterFun/main.cpp
+ReadWriter.h
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/WinterFun/ReadWriter.h
+

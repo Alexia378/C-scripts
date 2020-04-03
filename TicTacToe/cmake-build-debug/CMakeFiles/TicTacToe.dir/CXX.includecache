@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Alexandra(Student)/Desktop/C++/TicTacToe/main.cpp
+iostream
+-
+cstdio
+-
+cstdlib
+-
+string
+-
+time.h
+-
+windows.h
+-
+

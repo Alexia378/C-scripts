@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Strange_task_from_second_contest.dir/main.cpp.o  -o Strange_task_from_second_contest.exe -Wl,--out-implib,libStrange_task_from_second_contest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

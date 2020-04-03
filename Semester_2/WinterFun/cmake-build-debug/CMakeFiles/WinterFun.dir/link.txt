@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/WinterFun.dir/main.cpp.o  -o WinterFun.exe -Wl,--out-implib,libWinterFun.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

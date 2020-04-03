@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Wagner_Fisher.dir/main.cpp.o  -o Wagner_Fisher.exe -Wl,--out-implib,libWagner_Fisher.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

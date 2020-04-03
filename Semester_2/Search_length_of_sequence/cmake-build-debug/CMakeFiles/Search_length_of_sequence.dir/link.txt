@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Search_length_of_sequence.dir/main.cpp.o  -o Search_length_of_sequence.exe -Wl,--out-implib,libSearch_length_of_sequence.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

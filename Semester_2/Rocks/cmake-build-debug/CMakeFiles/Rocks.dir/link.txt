@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Rocks.dir/main.cpp.o  -o Rocks.exe -Wl,--out-implib,libRocks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

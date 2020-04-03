@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/LZ77_Compose/main.cpp
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+windows.h
+/cygdrive/c/Users/Aleksandra/Desktop/C++/Semester_2/LZ77_Compose/windows.h
+

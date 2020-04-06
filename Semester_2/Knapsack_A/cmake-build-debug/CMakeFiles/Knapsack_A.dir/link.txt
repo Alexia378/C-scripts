@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Knapsack_A.dir/main.cpp.o  -o Knapsack_A.exe -Wl,--out-implib,libKnapsack_A.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

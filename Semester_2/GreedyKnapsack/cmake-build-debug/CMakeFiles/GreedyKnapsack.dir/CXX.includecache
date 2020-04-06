@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/GreedyKnapsack/ReadWriter.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/GreedyKnapsack/main.cpp
+ReadWriter.h
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/GreedyKnapsack/ReadWriter.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/Knapsack_A/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+

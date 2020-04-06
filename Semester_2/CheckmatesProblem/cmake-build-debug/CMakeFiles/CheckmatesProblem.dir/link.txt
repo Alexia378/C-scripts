@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CheckmatesProblem.dir/main.cpp.o  -o CheckmatesProblem.exe -Wl,--out-implib,libCheckmatesProblem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

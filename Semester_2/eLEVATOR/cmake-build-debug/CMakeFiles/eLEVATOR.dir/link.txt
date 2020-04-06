@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/eLEVATOR.dir/main.cpp.o  -o eLEVATOR.exe -Wl,--out-implib,libeLEVATOR.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

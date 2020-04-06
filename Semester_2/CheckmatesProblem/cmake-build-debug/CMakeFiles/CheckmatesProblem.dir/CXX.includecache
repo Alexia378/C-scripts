@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/CheckmatesProblem/ReadWriter.h
+iostream
+-
+fstream
+-
+string
+-
+
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/CheckmatesProblem/main.cpp
+ReadWriter.h
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/CheckmatesProblem/ReadWriter.h
+

@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/Knapsack_A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/Knapsack_A/cmake-build-debug/CMakeFiles/Knapsack_A.dir
+/cygdrive/c/Users/Aleksandra/C-scripts/Semester_2/Knapsack_A/cmake-build-debug/CMakeFiles/edit_cache.dir

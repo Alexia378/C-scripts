@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aleksandrakarpova/CLionProjects/Contest_16/Task_2/ReadWriter.h
+iostream
+-
+fstream
+-
+string
+-
+
+/Users/aleksandrakarpova/CLionProjects/Contest_16/Task_2/main.cpp
+ReadWriter.h
+/Users/aleksandrakarpova/CLionProjects/Contest_16/Task_2/ReadWriter.h
+vector
+-
+

@@ -1,0 +1,5 @@
+4
+BCA+
+AB+C
++ACB
+C+BA

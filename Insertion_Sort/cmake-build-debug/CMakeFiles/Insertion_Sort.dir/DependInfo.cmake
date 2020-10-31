@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/Alexandra(Student)/Desktop/C++/Insertion_Sort/main.cpp" "/cygdrive/c/Users/Alexandra(Student)/Desktop/C++/Insertion_Sort/cmake-build-debug/CMakeFiles/Insertion_Sort.dir/main.cpp.o"
+  "/Users/aleksandrakarpova/Desktop/C-scripts/Insertion_Sort/main.cpp" "/Users/aleksandrakarpova/Desktop/C-scripts/Insertion_Sort/cmake-build-debug/CMakeFiles/Insertion_Sort.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

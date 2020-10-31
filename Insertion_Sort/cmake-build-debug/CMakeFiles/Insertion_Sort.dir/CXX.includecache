@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/Alexandra(Student)/Desktop/C++/Insertion_Sort/main.cpp
+/Users/aleksandrakarpova/Desktop/C-scripts/Insertion_Sort/main.cpp
 iostream
+-
+string
+-
+vector
 -
 

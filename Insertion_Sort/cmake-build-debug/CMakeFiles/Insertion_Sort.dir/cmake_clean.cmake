@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Insertion_Sort.dir/main.cpp.o"
-  "Insertion_Sort.exe"
+  "Insertion_Sort"
   "Insertion_Sort.pdb"
-  "libInsertion_Sort.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
